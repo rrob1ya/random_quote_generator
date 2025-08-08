@@ -31,3 +31,6 @@ function generateQuote() {
     break //Выходим из цикла
     }
 }
+
+// это мой комментарий
+var a = 1
